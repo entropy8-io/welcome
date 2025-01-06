@@ -10,7 +10,7 @@ export default function ComingSoonPage() {
         <div className="min-h-screen flex items-center justify-center bg-gray-50">
             <main className="text-center">
                 <h1 className="text-4xl font-bold text-gray-900 mb-4">Coming soon...</h1>
-                <p className="text-xl text-gray-600">We're working hard to bring you something amazing.</p>
+                <p className="text-xl text-gray-600">We are working hard to bring you something amazing.</p>
                 <p className="text-xl text-gray-650">hello@entropy8.io</p>
             </main>
         </div>
